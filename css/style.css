@@ -15,7 +15,8 @@
     float: left;
     width: 700px;
     height: 300px;
-    position: relative;
+    /* position: relative; */
+    position: fixed;
 }
 
 .item img {
@@ -23,6 +24,7 @@
     height: 100%;
     object-fit: cover;
     position: absolute;
+
 }
 
 .item .text {
